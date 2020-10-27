@@ -2,4 +2,4 @@
 applications:
  - name: horea-demo
    random-route: true
-   memory: 32M
+   memory: 128M
